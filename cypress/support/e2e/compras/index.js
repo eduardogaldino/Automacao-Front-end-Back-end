@@ -66,7 +66,7 @@ Cypress.Commands.add('selectCoutry', (coutry) => {
 })
 
 Cypress.Commands.add('selectState', (state) => {
-    cy.get(comprasloc.PURCHASE_FORM.SELECT_STATE).select(state)//.should('have.value', state);
+    cy.get(comprasloc.PURCHASE_FORM.SELECT_STATE).select(state).contains(state);
 })
 
 Cypress.Commands.add('fillCity', (city) => {
