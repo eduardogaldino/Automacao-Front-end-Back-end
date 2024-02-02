@@ -5,7 +5,7 @@ Olá, Sejam Bem Vindos(as)!💻
 Este projeto tem como finalidade:
 - Cobertura de cenários e casos de testes
 - Automação dos cenários com Cypress 💻
-- Sites da automação Front-End: [demonEcommerc](https://demo.nopcommerce.com/);
+- Site da automação Front-End: [demonEcommerc](https://demo.nopcommerce.com/);
 - Site da automação Back-End: [ServerRest](https://serverest.dev/);
 
 # Pré - requisitos
