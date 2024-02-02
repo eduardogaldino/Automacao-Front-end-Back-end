@@ -35,7 +35,7 @@ Abaixo segue os links com tutorias de intalaçao dos requisitos citados acima
    - **Passo 3:** Copie o link de clone do projeto e em seu terminal de linha de comando(onde você armazena seus projetos) cole;
    - **Passo 4:** Execute o comando `git clone [cole-o-link-copiado-aqui]`.
 
-	**OBS:** Ficou com dúvida? Aqui está um [tutorial](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository) para facilitar sua vida. 
+**OBS:** Ficou com dúvida? Aqui está um [tutorial](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository) para facilitar sua vida. 
 
 ## Dando Play no Projeto
 
