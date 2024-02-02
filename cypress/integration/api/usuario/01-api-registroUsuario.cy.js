@@ -3,6 +3,7 @@ import '../../../support/api/usuario/index'
 
 let emailTeste = faker.internet.email();
 let firstName = faker.person.firstName();
+
 describe('cadastro de usuario API', () => {
     
     it('requisição post ', () => {

@@ -9,6 +9,7 @@ let lastName = faker.person.firstName();
 let email = faker.internet.email();
 let companyName = faker.string.alphanumeric(10);
 let password = faker.string.alphanumeric(10);
+
 const day = Math.floor(Math.random() * 31) + 1;
 const month = Math.floor(Math.random() * 12) + 1;
 const year = Math.floor(Math.random() * (2024 - 1914 + 1)) + 1914;
