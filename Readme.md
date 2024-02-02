@@ -11,8 +11,8 @@ Este projeto tem como finalidade:
 # Pré - requisitos
 É nescessario que os sequites requisitos sejam atendidos 
 - [Visual Studio Code](https://code.visualstudio.com/download)(versão ultilizada 1.86.0);
-- [git](https://git-scm.com/downloads)(verão ultilizada 2.42.0.windows.2);
-- [Node JS](https://nodejs.org/en);
+- [git](https://git-scm.com/downloads)(versão ultilizada 2.42.0.windows.2);
+- [Node JS](https://nodejs.org/en)(versão ultilizada 21.4.0);
 - [Cypress](https://docs.cypress.io/guides/getting-started/installing-cypress)(versão ultilizada 13.6.3);
 - [Faker Library](https://www.npmjs.com/package/@faker-js/faker)(versão ultilizada 8.3.1);
 
