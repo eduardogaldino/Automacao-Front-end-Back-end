@@ -1,0 +1,15 @@
+{
+  "userMessages": {
+    "firstNameErrorMessage": "First name is required.",
+    "lastNameErrorMessage": "Last name is required.",
+    "emailErrorMessage": "Email is required.",
+    "passwordErrorMessage":"Password is required.",
+    "ComfirmPasswordErrorMessage": "Password is required.",
+    "passworsNotKnown": "The password and confirmation password do not match.",
+    "sucessMessage": "Your registration completed"
+  },
+  
+  "loginMessages":{
+    "loginErrorMessage": "Login was unsuccessful. Please correct the errors and try again.No customer account found"
+  }
+}
