@@ -16,7 +16,7 @@ Este projeto tem como finalidade:
 - [Faker Library](https://www.npmjs.com/package/@faker-js/faker)(versão utilizada 8.3.1);
 
 ## Passo a passo
-Abaixo seguem os links com tutorias de instalação dos requisitos citados acima.
+Abaixo seguem os links com tutoriais de instalação dos requisitos citados acima.
 
 - [Instalação Visual Studio Code](https://blog.cod3r.com.br/visual-studio-code-vscode-instalacao-e-configuracao/);
 
@@ -39,11 +39,7 @@ Abaixo seguem os links com tutorias de instalação dos requisitos citados acima
 ## Dando Play no Projeto
 
 - **Passo 1:** Depois de todos os passos realizados, basta apenas iniciar o cypress no terminal do Visual Studio Code digitando `npx cypress open`	
-- **Passo 2:** Depois do passo 1 realizado ira abrir o interface do cypress, escolha o navegador que deseja rodar os testes e, após a escolha do navegador, basta clicar no teste que deseja rodar, que o mesmo já iniciará.
+- **Passo 2:** Depois do passo 1 realizado ira abrir o interface do cypress, escolha o navegador que deseja rodar os testes , após a escolha do navegador, basta clicar no teste que deseja rodar, que o mesmo já iniciará.
 
-## Conclusão
-      
-   Pronto!!!✔️ 
 
-   Agora que já instalamos todos os requisitos necessários, é só rodar o projeto!💻
 		
