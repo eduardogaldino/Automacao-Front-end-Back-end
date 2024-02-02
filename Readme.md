@@ -17,7 +17,7 @@ Este projeto tem como finalidade:
 - [Faker Library](https://www.npmjs.com/package/@faker-js/faker)(versão ultilizada 8.3.1);
 
 ## Passo a passo
-Abaixo segue os links com tutorias de intalaçao dos requisitos citados acima
+Abaixo segue os links com tutorias de instalaçao dos requisitos citados acima
 
 - [Instalação Visual Studio Code](https://blog.cod3r.com.br/visual-studio-code-vscode-instalacao-e-configuracao/);
 
