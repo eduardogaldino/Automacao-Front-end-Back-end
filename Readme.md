@@ -39,7 +39,7 @@ Abaixo segue os links com tutorias de intalaçao dos requisitos citados acima
 
 ## Dando Play no Projeto
 
-- **Passo 1:** Depois de todos os passos realizados, basta apenas iniciar o cypress no terminal do Visual Stuido Code digitando `npx cypress open`	
+- **Passo 1:** Depois de todos os passos realizados, basta apenas iniciar o cypress no terminal do Visual Studio Code digitando `npx cypress open`	
 - **Passo 2:** Depois do passo 1 realizado ira abrir o interface do cypress, escolha o navegador que deseja rodar os testes e após a escolha do navegador basta clicar no teste que deseja rodar, que o mesmo ja inicie.
 
 ## Conclusão
