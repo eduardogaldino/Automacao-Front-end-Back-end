@@ -26,7 +26,7 @@ Abaixo segue os links com tutorias de intalaçao dos requisitos citados acima
 - [Instalação Faker Librari](https://www.npmjs.com/package/@faker-js/faker);
 
 ## Clonando o Projeto 
-   - **Passo 1:** Abra o navegador, acesse a [URL do projeto](https://github.com/VinSouss/Automacao-Front-End-Back-End);
+   - **Passo 1:** Abra o navegador, acesse a [URL do projeto](https://github.com/eduardogaldino/Automacao-Front-end-Back-end);
    - **Passo 2:** Clique no botão **Code** e escolha uma opção de clone (HTTPS ou SSH);
    - **Passo 3:** Copie o link de clone do projeto e em seu terminal de linha de comando(onde você armazena seus projetos) cole;
    - **Passo 4:** Execute o comando `git clone [cole-o-link-copiado-aqui]`.
