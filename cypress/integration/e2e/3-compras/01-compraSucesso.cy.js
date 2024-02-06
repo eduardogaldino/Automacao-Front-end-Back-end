@@ -21,7 +21,7 @@ const years = year.toString();
 
 describe('Teste de realização de compra ', () => {
 
-    context
+    
     beforeEach(() => {
         cy.visit('/');
         cy.clickOnRegistrationButton();
